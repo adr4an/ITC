@@ -1,0 +1,58 @@
+.service-grid {
+    inset: 0;
+    height: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    margin-top: -10px;
+}
+
+.container-grid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+
+.head-img-box {
+    width: 60px;
+    height: 50px;
+}
+
+.head-box-img {
+    width: 100%;
+    height: 100%;
+}
+
+.head-title {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.text-container {
+    width: 290px;
+    text-align: center;
+}
+
+.service-description {
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.service-bottom {
+    background-color: rgb(90, 18, 90);
+    margin-top: 190px;
+    inset: 0;
+    height: 70px;
+}
+
+.com {
+    color: white;
+    padding: 20px;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+
+}

@@ -1,0 +1,38 @@
+.title-container {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    inset: 0;
+    height: 250px;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.about-company {
+    font-size: 18px;
+    color: rgb(168, 133, 133);
+}
+
+.title-service {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.row-container {
+    display: grid;
+    grid-template-columns: 40px 40px 40px 40px;
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.row-img-container {
+    width: 38px;
+    height: 25px;
+}
+
+.row-img {
+    width: 100%;
+    height: 100%;
+}
