@@ -50,3 +50,28 @@
     background-color: #235fad;
     transition: all 0.3s ease,visibility 0s;
 }
+
+.details-container {
+    color: white;
+    width: 350px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: 60px;
+    margin-bottom: -50px;
+}
+
+.details-container :is(.details-1, .details-2, .details-3){
+    background-color: #3a80db;
+    border: 2px solid 2d70c6;
+    border-radius: 5px;
+    padding: 15px 25px 15px 25px;
+    cursor: pointer;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.details-container :is(.details-1, .details-2, .details-3):hover {
+    transition: all 0.3s ease,visibility 0s;
+    background-color: #7198c4;
+}
