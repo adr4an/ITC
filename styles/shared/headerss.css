@@ -1,4 +1,4 @@
-.amazon-header {
+.main-header {
   background-color: white;
   color: black;
   padding-left: 15px;
@@ -17,7 +17,7 @@
   height: 60px;
 }
 
-.amazon-header-left-section {
+.top-header-left-section {
   width: 180px;
 }
 
@@ -40,13 +40,13 @@
   border: 1px solid white;
 }
 
-.amazon-logo {
+.uks-logo {
   width: 100px;
   margin-top: 5px;
   margin-left: 20px;
 }
 
-.amazon-mobile-logo {
+.uks-mobile-logo {
   display: none;
 }
 
@@ -62,7 +62,7 @@
   }
 }
 
-.amazon-header-middle-section {
+.mid-header-middle-section {
   flex: 1;
   max-width: 400px;
   display: flex;
@@ -88,7 +88,7 @@ a:hover {
   text-decoration: underline;
 }
 
-.amazon-header-right-section {
+.rayt-header-right-section {
   width: 180px;
   flex-shrink: 0;
   display: flex;
