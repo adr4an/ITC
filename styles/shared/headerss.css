@@ -124,10 +124,7 @@ a:hover {
 
 .shopping-bag {
   color: black;
-  display: flex;
-  align-items: center;
   position: relative;
-  margin: 2px 40px 0 10px;
 }
 
 .bag-icon {
