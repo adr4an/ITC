@@ -17,7 +17,7 @@ export const products = [
     name: "Ukay-ukay 1",
     rating: {
       stars: 3.5,
-      count: 1
+      count: 0
     },
     priceCents: 3999,
     keywords: [
@@ -32,7 +32,7 @@ export const products = [
     name: "Ukay-ukay 2",
     rating: {
       stars: 3.5,
-      count: 2
+      count: 0
     },
     priceCents: 3999,
     keywords: [
@@ -46,7 +46,7 @@ export const products = [
     name: "Ukay-ukay 3",
     rating: {
       stars: 3.5,
-      count: 1
+      count: 0
     },
     priceCents: 3999,
     keywords: [
@@ -63,7 +63,7 @@ export const products = [
     name: "Ukay-ukay 4",
     rating: {
       stars: 3.5,
-      count: 3
+      count: 0
     },
     priceCents: 3999,
     keywords: [
@@ -78,7 +78,7 @@ export const products = [
     name: "Ukay-ukay 5",
     rating: {
       stars: 3.5,
-      count: 2
+      count: 0
     },
     priceCents: 3999,
     keywords: [
@@ -93,7 +93,7 @@ export const products = [
     name: "Ukay-ukay 6",
     rating: {
       stars: 3.5,
-      count: 1
+      count: 0
     },
     priceCents: 3999,
     keywords: [
@@ -107,7 +107,7 @@ export const products = [
     name: "Ukay-ukay 7",
     rating: {
       stars: 4,
-      count: 1
+      count: 0
     },
     priceCents: 4999,
     keywords: [
@@ -122,7 +122,7 @@ export const products = [
     name: "Ukay-ukay 8",
     rating: {
       stars: 4,
-      count: 3
+      count: 0
     },
     priceCents: 4999,
     keywords: [
@@ -139,7 +139,7 @@ export const products = [
     name: "Ukay-ukay 9",
     rating: {
       stars: 4,
-      count: 3
+      count: 0
     },
     priceCents: 4999,
     keywords: [
@@ -153,7 +153,7 @@ export const products = [
     name: "Ukay-ukay 10",
     rating: {
       stars: 4,
-      count: 2
+      count: 0
     },
     priceCents: 4999,
     keywords: [
@@ -168,7 +168,7 @@ export const products = [
     name: "Ukay-ukay 11",
     rating: {
       stars: 4,
-      count: 2
+      count: 0
     },
     priceCents: 4999,
     keywords: [
@@ -187,7 +187,7 @@ export const products = [
     name: "Ukay-ukay 12",
     rating: {
       stars: 4.5,
-      count: 2
+      count: 0
     },
     priceCents: 4999,
     keywords: [
